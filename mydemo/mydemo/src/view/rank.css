@@ -1,0 +1,76 @@
+.mg img {
+    display: inline-block;
+    width: 100%;
+    height: 2.9rem;
+    position: relative;
+}
+
+.timer {
+    position: absolute;
+    left: 6%;
+    top: 36%;
+    color: wheat;
+    font-size: .25rem;
+}
+
+ul li {
+    border-bottom: 0.5px solid rgb(209, 209, 209);
+    padding: 8px;
+}
+
+ul li .pd {
+    display: inline-block;
+    font-size: .35rem;
+    padding: 12px 0;
+    color: #df3436;
+    line-height: 100%;
+
+}
+
+.sq {
+    width: 0.24rem;
+    height: 0.16rem;
+    vertical-align: middle;
+}
+
+ul li .pt {
+    display: inline-block;
+    font-size: .35rem;
+    padding: 12px 0;
+    color: #999;
+    line-height: 100%;
+
+}
+
+
+ul li .mo {
+    display: inline-block;
+    padding-left: 12px;
+
+}
+
+ul li .p1 {
+    display: inline-block;
+    font-size: .35rem;
+    width: 3rem;
+    color: #333;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+ul li .p2 {
+    color: #888;
+    padding: 12px 0 12px 0;
+}
+
+.ih img {
+    line-height: 100%;
+}
+
+ul li .ih {
+    float: right;
+    line-height: .72rem;
+    margin-top: .3rem;
+    padding-right: .2rem;
+}

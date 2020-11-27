@@ -1,0 +1,76 @@
+.inp {
+    line-height: .6rem;
+    height: 0.6rem;
+    display: inline-block;
+    padding: .3rem .2rem;
+
+}
+
+.inp input {
+    text-align: center;
+    position: relative;
+    background-color: rgb(236, 236, 236);
+    width: 100%;
+    height: .6rem;
+    border-radius: .5rem;
+    width: 200%;
+}
+
+.pop {
+    position: absolute;
+    right: 10%;
+    top: 22.7%;
+    width: 0.28rem;
+    height: 0.28rem;
+}
+
+.na {
+    z-index: 10;
+    float: left;
+    left: 15%;
+    top: 23%;
+    position: absolute;
+    color: #333;
+    width: 0.26rem;
+    height: 0.26rem;
+}
+
+.as {
+    vertical-align: middle;
+    width: 0.26rem;
+    height: 0.26rem;
+}
+
+.lli {
+    height: .45rem;
+    line-height: .45rem;
+
+}
+
+.mooo {
+    font-size: .24rem;
+    color: #666;
+    padding: .3rem;
+}
+
+.aslv {
+    padding: .2rem;
+}
+
+.aslv div {
+    display: inline-block;
+    height: 0.32rem;
+    border: 1px solid rgb(214, 214, 214);
+    color: #333 !important;
+    margin-right: .16rem;
+    margin-bottom: .16rem;
+    padding: 0 .28rem;
+    border-radius: .2rem;
+    line-height: .32rem;
+}
+.hid{
+    display: none;
+}
+.show{
+    display: inline;
+}
